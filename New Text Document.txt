@@ -1,1 +1,6 @@
 this is git.have a nice day
+
+git add ..........
+
+1.git add -A
+2.git commit -m "example your name"
